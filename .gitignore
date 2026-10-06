@@ -1,0 +1,46 @@
+# Unity generated state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Local generation backups and disposable validation projects
+/Tools/
+
+# IDE and machine state
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+*.log
+*.tmp
+*.bak
+*.stackdump
+.DS_Store
+Thumbs.db
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Unity crash output
+sysinfo.txt
+*.dmp
+*.unitypackage
